@@ -1,5 +1,5 @@
 # pullrequest-test
 
-first commit 
+Did some changes in feature
 
 Added some feature
